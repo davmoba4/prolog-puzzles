@@ -10,7 +10,7 @@
        ?- solve.
 
 * Press ; continuously to go through the valid solutions
-* Then type:
+* Then type (to stop):
 
       ?- halt.
 
@@ -23,6 +23,6 @@
        ?- solve.
 
 * Press ; continuously to go through the valid solutions
-* Then type:
+* Then type (to stop):
 
       ?- halt.
